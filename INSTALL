@@ -17,3 +17,4 @@ Development
    Build Service.
 2. I would welcome help / patches / merge requests!
 3. Initially you'll need to run autoreconf -i before building.
+4. On Debian systems be sure to install libdbus-1-dev ,pkg-config & libtool
